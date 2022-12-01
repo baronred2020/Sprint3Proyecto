@@ -1,0 +1,22 @@
+.divPadre{
+    height: 100vh;
+    position:center;
+
+}
+
+.divhijo{
+    margin:0;
+    position: absolute;
+    top:50%;
+    left:50%;
+    -ms-transform: (-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.spinnerReactstrap{
+    width: 80px !important;
+    height: 80px !important;
+    color : #ad8762;
+    border:10px solid currentColor !important;
+    border-right-color: transparent !important;
+}

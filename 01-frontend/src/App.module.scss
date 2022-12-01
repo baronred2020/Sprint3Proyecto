@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Poppins;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container1 {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/src/assets/iconpro8.png);
+
+    
+
+}
+
+*::selection {
+    background: #6358dc;
+    color:white;
+}
